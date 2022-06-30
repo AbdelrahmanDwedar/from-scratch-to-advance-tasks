@@ -19,13 +19,13 @@ By using the input; welcome a new user in the console. In [welcoming.py](welcomi
 You have to welcome them with their name!  
 The output must be looking like this:
 
-![welcoming](src/welcomeing-example.png)
+![welcoming](assets/welcomeing-example.png)
 
 ### Adding Two Numbers together
 Now make an app that inputs two numbers from the user then add them together in [adding.py](adding.py)  
 
 for example:  
-![adding](src/adding-example.png)
+![adding](assets/adding-example.png)
 
 
 ---
