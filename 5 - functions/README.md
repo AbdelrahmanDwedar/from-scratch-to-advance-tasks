@@ -6,7 +6,7 @@ Now we almost finished learning Python, so this task will be different, this tim
 
 ## Setup your project
 
-We'll make a game, the game name will be **`Cows & Pulls`**  
+We'll make a game, the game name will be **`Cows & Bulls`**  
 Let's make the repository on [GitHub](https://github.com)  
 
 ### Setup repository
@@ -42,8 +42,8 @@ also better to use `from` too
 
 ## The task
 
-The cows & pulls game is a game where you have a number from 4 digits, that the user have to guess.  
-The game have to let the user input values of 4 numbers and check if there's right values in it, if there's you have to give the user a cow, if the value was not right give the user a pull.
+The cows & bulls game is a game where you have a number from 4 digits, that the user have to guess.  
+The game have to let the user input values of 4 numbers and check if there's right values in it, if there's you have to give the user a cow, if the value was not right give the user a bull.
 
 and output them, and if the user didn't get 4 cows (win) then they repeat the process again till they succeed.  
 

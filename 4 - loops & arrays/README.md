@@ -8,7 +8,7 @@ We'll have a task for the arrays and other for the looping.
 
 ## Tasks
 
-### 1 - Get online the even numbers
+### 1 - Get the even numbers
 In [even-numbers.py](even-numbers.py) you'll find a cupple of numbers in an array  
 You can to loop over them and only print out the even numbers `(You'll need to use loops and conditions)`  
 
